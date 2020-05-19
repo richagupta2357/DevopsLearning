@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+This is my file on branch b1
+=======
 This is my file on remote
+>>>>>>> e1ebd72fbdcd91b0ac237aaf7c4923a79278157e
